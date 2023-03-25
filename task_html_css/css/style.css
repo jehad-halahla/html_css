@@ -59,7 +59,7 @@ nav span{
     letter-spacing: 1px;
 }
 .banner{
-    background-image: url(/images/banner.jpeg);
+    background-image: url(../images/banner.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
